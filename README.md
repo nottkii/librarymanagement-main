@@ -6,7 +6,7 @@ Clone the Repository:
 
 To clone the project, open your terminal (or Git Bash for Windows users) and run the following command:
 bash
-git clone https://github.com/amansah77/librarymanagement.git
+git clone (https://github.com/nottkii/librarymanagement-main?tab=readme-ov-file)
 cd librarymanagement
 
 Install Qt:
